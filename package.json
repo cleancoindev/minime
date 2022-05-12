@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/Giveth/minime",
   "dependencies": {
-    "eth-contract-class": "0.0.6"
+    "eth-contract-class": "0.0.12"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
